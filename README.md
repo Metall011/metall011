@@ -44,13 +44,13 @@
 <h2>О DEED</h2>  
 
 Во многом это моя философия жини, которая помогает добиваться жизненных целей. Если ты ежедневно занимаешься делом, то каждый раз ты на немного становишься лучше и в итоге станешь профи в этом. Сегодня ты не заметишь изменений, но через год ты себя не узнаешь.
-<hr>  
+ 
   
 
 <br/>  
 
 
- My Skill Set  
+ <h2>My Skill Set</h2>   
 <table><tr><td valign="top" width="33%">
 
 
@@ -88,7 +88,7 @@
 <br/>  
 
 
-Connect with me  
+<h2>Connect with me</h2>   
 <div align="center">
 <a href="https://linkedin.com/in/metall011" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
