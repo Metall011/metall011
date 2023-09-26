@@ -1,16 +1,132 @@
-### Hi there 👋
+<div align="center">
+<img src="https://yt3.googleusercontent.com/NexIkpIFmmJK92L7ER3YM4cCFpeOStmVKd_KthuyRcN4x4r8kF1dcSC03TnVetCtSS4Pk2iZWg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**Metall011/metall011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">DEED - это проект, который открывает для меня границы!</div>  
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### О себе  
+<hr>
+Привет, я Владимир и минуту назад закончил магистратуру на факультете строительство с красным дипломом. За время учебы достиг:  
+  
+
+- 👨‍🎓 Лучший студент ДГТУ 2022  
+  
+
+- 🦾Победитель ф.Потанина (стипендия 25к до конца обучения)  
+  
+
+- 🥇 Грантополучатель университетской стипендии (стипендия 15к)  
+  
+
+И еще получил много других ачивок... <br> На всем протяжении учебы я сталкивался с рутинными делами и постоянно у меня возникал вопрос: "Сейчас век информационных технологий, почему кто-то это не автоматизирует?", но понимая что ответ не решит мою проблему, я шел и сам пытался автоматизировать рутину. Преврой значимой программой стал скрипт на python для расчета внутренних напряжений в строительной балке. И это очень круто! <br> Теперь, при выборе профессии, я окончательно знаю что стану разработчиком👨‍💻  
+  
+
+<hr>  
+  
+
+- 🔭Сейчас работаю над [DEED](https://github.com/Metall011/DEED)  
+  
+
+- 🕵️‍♂️ Изучаю Django, Flask и SQLAlchemy  
+  
+
+- ⚡ Связаться со мной [ВКонта́кте](https://vk.com/vovagarkavy)  
+  
+
+<hr>  
+  
+
+
+
+### о DEED  
+<hr>
+Во многом это моя философия жини, которая помогает добиваться жизненных целей. Если ты ежедневно занимаешься делом, то каждый раз ты на немного становишься лучше и в итоге станешь профи в этом. Сегодня ты не заметишь изменений, но через год ты себя не узнаешь.
+<hr>  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Extra  
+<div align="center">  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/metall011" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCPjZw_c8f1NQPIC4MUGj-VA" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/metall011" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/metall011" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=metall011&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=metall011&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
