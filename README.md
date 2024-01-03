@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://yt3.googleusercontent.com/NexIkpIFmmJK92L7ER3YM4cCFpeOStmVKd_KthuyRcN4x4r8kF1dcSC03TnVetCtSS4Pk2iZWg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" align="center" style="width: 100%" />
+<img src="https://deed.lol/static/main_deed/images/deed_full.png" align="center" style="width: 100%" />
 </div>  
   
 
