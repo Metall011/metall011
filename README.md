@@ -30,7 +30,7 @@
 - 🔭Сейчас работаю над [DEED](https://github.com/Metall011/DEED)  
   
 
-- 🕵️‍♂️ Изучаю Django, Flask и SQLAlchemy  
+- 🕵️‍♂️ Изучаю Python, Django, SQL  
   
 
 - ⚡ Связаться со мной [ВКонта́кте](https://vk.com/vovagarkavy)  
