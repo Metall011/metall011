@@ -16,7 +16,7 @@
 - 🔭Сейчас работаю над [DEED](https://github.com/Metall011/DEED)  
   
 
-- 🕵️‍♂️ Изучаю Python, Django, SQL, OOP. 
+- 🕵️‍♂️ Изучаю Python, Django, SQL, OOP 
   
 
 - ⚡ Связаться со мной [ВКонта́кте](https://vk.com/vovagarkavy)
